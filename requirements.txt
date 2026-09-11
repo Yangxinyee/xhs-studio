@@ -1,0 +1,6 @@
+xhs @ git+https://github.com/ReaJason/xhs.git@f4b62d9f8e4078e631fc6e4ec8e430bc711ee9f0
+streamlit>=1.32
+pandas>=2.0
+playwright>=1.40
+requests
+lxml

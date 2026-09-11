@@ -1,0 +1,21 @@
+# 本地配置 / 下载内容 —— 永远不要提交 cookie
+config.json
+notes_cache.json
+xhs-notes/
+my_notes/
+*.cookie
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# 系统 / 编辑器
+.DS_Store
+.idea/
+.vscode/
+.streamlit/secrets.toml
